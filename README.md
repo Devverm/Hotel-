@@ -153,13 +153,4 @@ Guest preferences for room types, meal plan adoption rates, parking space utiliz
 
 ---
 
-## 👤 Author
-
-**Angela Boo**
-- **GitHub:** [github.com/angelaboo](https://github.com/angelaboo)
-- **Kaggle:** [kaggle.com/xiaotingb](https://www.kaggle.com/xiaotingb)
-- **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/xxtt)
-
----
-
 *#PowerBI #DataAnalytics #HospitalityAnalytics #BusinessIntelligence #DataVisualization*
