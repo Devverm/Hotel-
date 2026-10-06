@@ -148,8 +148,6 @@ Guest preferences for room types, meal plan adoption rates, parking space utiliz
 ## 🔗 Project Resources
 
 - **Presentation (PDF):** [Hotel Reservation Analysis.pdf](./Hotel_Reservation_Analysis.pdf) — Full slide walkthrough of the analysis and insights
-- **Kaggle Notebook:** [View on Kaggle](https://www.kaggle.com/code/xiaotingb/hotel-reservation-analysis-power-bi)
-- **GitHub Repository:** [View on GitHub](https://github.com/angelaboo/hotel-reservation-analysis-dashboard)
 
 ---
 
