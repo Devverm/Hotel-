@@ -13,7 +13,7 @@ Platinum Oasis faced four key business challenges: a high cancellation rate, unc
 2. Analyze cancellation drivers and recommend mitigation strategies
 3. Optimize operations around room types, meal plans, and parking
 4. Enhance guest retention by understanding new vs. returning guest behavior
-
+ 
 ---
 
 ## 📁 Project Structure
